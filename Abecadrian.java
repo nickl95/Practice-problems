@@ -33,11 +33,8 @@ public class Abecadrian
         break;
       }
       else
-      {
         is_abecadrian = true;
-      }
     }
-    
     System.out.print("Is Abecadrian word? " + is_abecadrian);
   }
 }
